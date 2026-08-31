@@ -109,9 +109,9 @@ The retrospective contains 750 words and covers the original Week 1 goal, what c
 
 ## Hours Log
 
-**Status:** Pending final portal verification
+**Status:** Available in FlyRank portal
 
-The final hours record will be verified through the FlyRank portal before the final review checkpoint.
+FlyRank currently records **140.5 estimated hours** in the internship Hour Log / evidence ledger.
 
 ---
 
