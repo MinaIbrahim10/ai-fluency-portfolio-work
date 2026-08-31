@@ -166,3 +166,61 @@ The existing clarification rule worked as intended.
 ### Result
 
 PASS — the agent identified ambiguity and requested clarification instead of guessing or making unnecessary tool calls.
+
+---
+
+## Build Log Entry 4 — Raw End-to-End Capture
+
+### Goal
+
+Record a complete successful agent run from request to final evidence-backed result without mid-run editing.
+
+### Test Claim
+
+> Find evidence that my Agentic-Nexus project uses both vector retrieval and a knowledge graph.
+
+The agent was instructed to use GitHub as the evidence source and verify the claim rather than assume it was true.
+
+### What Happened
+
+The agent used the live GitHub connection and searched for repository evidence related to Agentic-Nexus.
+
+It investigated the project's hybrid RAG implementation, including FAISS-based vector retrieval and the NetworkX knowledge-graph path.
+
+During inspection, it found an important implementation nuance:
+
+Both capabilities exist in the repository, but the current default hybrid-agent runtime path appears to call the data engine with its default CAG behavior rather than explicitly activating the FAISS vector-retrieval branch.
+
+Because of this, the agent did not mark the original wording as fully verified.
+
+### Result
+
+The claim was classified as PARTIALLY VERIFIED.
+
+The agent distinguished between:
+
+- vector retrieval being implemented,
+- knowledge-graph retrieval being implemented,
+- and both necessarily being active in the current default runtime path.
+
+This is the behavior the evidence guardrails were designed to produce.
+
+### What Changed
+
+No manual intervention or instruction change was made during the run.
+
+The agent independently narrowed the claim after inspecting implementation evidence.
+
+### Raw Capture
+
+`evidence/fl-07-raw-agent-run.webm`
+
+The capture is approximately two minutes long and is unedited.
+
+It shows the complete loop:
+
+request → live GitHub investigation → code/evidence inspection → uncertainty detection → final structured result.
+
+### Result
+
+PASS — successful end-to-end agent run with live data access and no mid-run hand editing.
