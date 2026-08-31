@@ -24,16 +24,16 @@ The portfolio should use real evidence whenever real evidence is stronger than g
 
 Needed:
 
-- Real professional profile photo
+- A clear personal portrait or identity visual
 - Minimal visual texture only if it supports the layout
 
 Decision:
 
-Use a real photo.
+The current portfolio uses an AI-generated portrait created with Nano Banana.
 
 Reason:
 
-The subject is a real person, so an AI-generated portrait would be inappropriate and less credible than the actual photo.
+I am not treating it as a real photograph. Because this assignment explicitly values real photos when the subject is the person, a real portrait would be the stronger choice for a future portfolio revision.
 
 ---
 
@@ -174,14 +174,14 @@ Generated academic imagery would add style but reduce informational value.
 
 The final portfolio image set should prioritize:
 
-1. Real professional profile photo
-2. Real product screenshots
-3. Architecture diagrams
-4. Workflow diagrams
-5. GitHub and open-source evidence
-6. Research figures and charts
-7. Data visualizations
-8. Minimal icons and interface accents
+1. Real product screenshots
+2. Architecture diagrams
+3. Workflow diagrams
+4. GitHub and open-source evidence
+5. Research figures and charts
+6. Data visualizations
+7. Minimal icons and interface accents
+8. Current AI-generated portrait, clearly identified as such
 
 These visuals all support a consistent technical, editorial, and research-focused identity.
 
@@ -189,13 +189,13 @@ These visuals all support a consistent technical, editorial, and research-focuse
 
 # 3. Where Real Captures Beat AI
 
-## Profile Photo
+## Profile Portrait
 
-REAL PHOTO CHOSEN.
+CURRENT AI-GENERATED PORTRAIT ACKNOWLEDGED.
 
-The subject is me, so the real photo is the correct visual.
+The current portfolio portrait was generated with Nano Banana.
 
-An AI-generated version would reduce authenticity.
+I would not present it as a real photograph. For a future revision, I would replace it with a real photo because that would better satisfy the portfolio's authenticity goal when the subject is the person.
 
 ---
 
@@ -277,7 +277,7 @@ For this portfolio, that usually means:
 - real screenshots over generated mockups,
 - real architecture over abstract AI artwork,
 - real data over decorative graphics,
-- and a real photo where the subject is the person.
+- and, where the subject is the person, a real photo is preferred over an AI-generated portrait.
 
 The visual identity stays consistent because every image supports the same calm, technical, editorial mood.
 
@@ -287,13 +287,13 @@ The visual identity stays consistent because every image supports the same calm,
 
 ## Keepers
 
-- Real profile photo
 - Real product screenshots
 - Real architecture diagrams
 - Real GitHub/open-source evidence
 - Real research figures
 - Real data visualizations
 - Minimal interface icons
+- Current AI-generated portrait, clearly disclosed
 
 ## Rejected
 
