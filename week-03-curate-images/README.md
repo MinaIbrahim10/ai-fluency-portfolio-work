@@ -10,299 +10,269 @@ https://minaibrahim.tech/
 
 ## Goal
 
-The goal of this exercise is not to generate more images.
+The goal of this exercise is to choose visuals that strengthen proof and stay consistent with the portfolio identity.
 
-It is to choose visuals that strengthen the proof, stay consistent with the portfolio identity, and make the engineering work easier to understand.
-
-The portfolio should use real evidence whenever real evidence is stronger than generated imagery.
+The portfolio should prefer truthful technical evidence over decorative AI-generated stand-ins.
 
 ---
 
-# 1. Image Needs Mapped to the Portfolio
+# 1. Current Visuals in the Portfolio
 
-## Hero / Profile
+## Hero / Portrait
 
-Needed:
-
-- A clear personal portrait or identity visual
-- Minimal visual texture only if it supports the layout
+The current hero includes a portrait generated with Nano Banana.
 
 Decision:
 
-The current portfolio uses an AI-generated portrait created with Nano Banana.
+KEEP FOR NOW, BUT DISCLOSE IT AS AI-GENERATED.
 
 Reason:
 
-I am not treating it as a real photograph. Because this assignment explicitly values real photos when the subject is the person, a real portrait would be the stronger choice for a future portfolio revision.
+It fits the current visual identity, but I would not describe it as a real photograph. For a future revision, a real portrait would be the stronger choice when the subject is me.
+
+---
+
+## TensorFlow / CPython Free-Threading Visual
+
+The portfolio includes a custom technical visual for the TensorFlow CPython 3.14t work.
+
+It shows:
+
+- GIL OFF before and after TensorFlow import
+- 800 concurrent TensorFlow operation batches
+- 800 synchronous gRPC RPCs
+- 500 asynchronous gRPC RPCs
+- TensorFlow / CPython runtime relationships
+- ownership
+- locking
+- pybind11
+- ABI
+- selected upstream pull requests
+
+Decision:
+
+KEEP.
+
+Reason:
+
+This visual serves real proof. It communicates actual runtime engineering work, real test numbers, and real upstream contributions instead of using a generic AI illustration.
+
+This is exactly the kind of visual that belongs in the portfolio because it explains the work.
+
+---
+
+## TensorFlow Pull Request Evidence
+
+The portfolio includes links and labels for real upstream TensorFlow pull requests.
+
+Decision:
+
+KEEP.
+
+Reason:
+
+The pull requests are verifiable public engineering evidence and directly support the claims made in the portfolio.
 
 ---
 
 ## Agentic-Nexus
 
-Needed:
-
-- Real architecture diagram
-- Agent orchestration flow
-- Hybrid RAG workflow
-- Repository screenshot
+The portfolio currently presents the project through technical description, tags, and a real GitHub repository link.
 
 Decision:
 
-Use real technical visuals and repository evidence.
+KEEP THE REAL REPOSITORY EVIDENCE.
 
-Reason:
+Future improvement:
 
-The project is best explained through its actual architecture and implementation rather than a generated illustration of AI agents.
+Add a real architecture or orchestration diagram if needed.
 
----
-
-## Transformer LLM From Scratch
-
-Needed:
-
-- Model architecture diagram
-- Training or evaluation output
-- Inference/API evidence
-- Real repository or code capture
-
-Decision:
-
-Use real technical evidence.
-
-Reason:
-
-A generated “LLM” image would not show the actual system design or implementation.
-
----
-
-## AI-Powered Journal Management
-
-Needed:
-
-- Real UI screenshot
-- Backend/API evidence
-- Workflow or architecture diagram
-- Real project screen showing submission/review flow
-
-Decision:
-
-Use real captures.
-
-Reason:
-
-The product itself is stronger proof than an AI-generated mockup.
-
----
-
-## Webometrics Ranking Audit
-
-Needed:
-
-- Real charts
-- Ranking comparison visualizations
-- Statistical outputs
-- Research figures
-
-Decision:
-
-Use real data visualizations.
-
-Reason:
-
-The value of the project is in the methodology and analysis, so actual figures are more informative than decorative imagery.
+Do not replace it with generated artwork of AI agents.
 
 ---
 
 ## Hotel 1000
 
-Needed:
-
-- Dashboard screenshot
-- Reservation workflow
-- Guest management
-- Analytics or operational views
+The portfolio links to the real live project.
 
 Decision:
 
-Use real screenshots from the live product.
+KEEP THE REAL LIVE PROJECT LINK.
 
-Reason:
+Future improvement:
 
-A generated hotel dashboard would replace proof with simulation.
+A clean screenshot of the actual product interface would be useful.
 
----
-
-## TensorFlow Free-Threading Work
-
-Needed:
-
-- Real GitHub pull request captures
-- Runtime/test output
-- Release evidence
-- Synchronization or runtime diagrams
-
-Decision:
-
-Use real open-source evidence.
-
-Reason:
-
-The strongest proof is the actual upstream engineering record.
-
----
-
-## Research / Publications
-
-Needed:
-
-- Real paper figures
-- Publication pages
-- Charts
-- Experiment results
-
-Decision:
-
-Use real research evidence.
-
-Reason:
-
-Generated academic imagery would add style but reduce informational value.
-
----
-
-# 2. Final Image Set — Keepers
-
-The final portfolio image set should prioritize:
-
-1. Real product screenshots
-2. Architecture diagrams
-3. Workflow diagrams
-4. GitHub and open-source evidence
-5. Research figures and charts
-6. Data visualizations
-7. Minimal icons and interface accents
-8. Current AI-generated portrait, clearly identified as such
-
-These visuals all support a consistent technical, editorial, and research-focused identity.
-
----
-
-# 3. Where Real Captures Beat AI
-
-## Profile Portrait
-
-CURRENT AI-GENERATED PORTRAIT ACKNOWLEDGED.
-
-The current portfolio portrait was generated with Nano Banana.
-
-I would not present it as a real photograph. For a future revision, I would replace it with a real photo because that would better satisfy the portfolio's authenticity goal when the subject is the person.
-
----
-
-## Hotel 1000
-
-REAL PRODUCT SCREENSHOT CHOSEN.
-
-A working interface is stronger evidence than a generated UI concept.
-
----
-
-## Agentic-Nexus
-
-REAL ARCHITECTURE / REPOSITORY EVIDENCE CHOSEN.
-
-The real orchestration and RAG structure communicates the system better than abstract agent artwork.
-
----
-
-## TensorFlow Contributions
-
-REAL GITHUB / RUNTIME EVIDENCE CHOSEN.
-
-Actual upstream pull requests and runtime results directly prove the work.
+A generated hotel-management UI should not be used as a stand-in for the real system.
 
 ---
 
 ## Research
 
-REAL FIGURES AND RESULTS CHOSEN.
+The portfolio links to real publications and research profiles.
 
-The real data and methodology are more valuable than decorative visuals.
+Decision:
+
+KEEP THE REAL PUBLICATION EVIDENCE.
+
+Future improvement:
+
+Use real figures, charts, or experiment outputs when a visual is needed.
 
 ---
 
-# 4. AI-Generated Connective Tissue
+# 2. Final Image Set — Keepers
 
-For this portfolio, I chose not to add AI-generated hero artwork or decorative project imagery.
+The current keepers are:
 
-This was intentional.
+1. TensorFlow / CPython free-threading technical visual
+2. Real runtime metrics shown in the TensorFlow section
+3. Real upstream PR evidence
+4. Real GitHub repository links
+5. Real live-project links
+6. Real research/publication evidence
+7. Current Nano Banana portrait, clearly identified as AI-generated
 
-The existing portfolio already has a restrained visual identity, and adding generated imagery would not improve the proof.
+Future visual additions should prefer:
 
-If generated connective visuals are introduced later, they should follow one consistent style:
+- real product screenshots
+- real architecture diagrams
+- real charts
+- real experiment results
 
-- warm off-white background
-- near-black line work
-- soft green accent
-- minimal editorial composition
-- no neon effects
+---
+
+# 3. Where Real Evidence Was Chosen Over AI
+
+## TensorFlow Runtime Work
+
+REAL TECHNICAL VISUAL CHOSEN.
+
+I used a custom technical diagram based on the actual TensorFlow and CPython free-threading work instead of generating a futuristic AI image.
+
+Why:
+
+The diagram communicates real engineering concepts and measurable results.
+
+---
+
+## TensorFlow Contributions
+
+REAL PUBLIC EVIDENCE CHOSEN.
+
+The portfolio uses actual TensorFlow pull-request links rather than generated code imagery.
+
+Why:
+
+The real upstream work is stronger proof than decorative visuals.
+
+---
+
+## Agentic-Nexus
+
+REAL REPOSITORY LINK CHOSEN.
+
+The portfolio points to the actual repository instead of using generated agent artwork.
+
+Why:
+
+The real implementation provides stronger evidence.
+
+---
+
+## Hotel 1000
+
+REAL LIVE PROJECT LINK CHOSEN.
+
+The live product is preferred over an AI-generated hotel dashboard mockup.
+
+Why:
+
+A working system is stronger proof than a simulated interface.
+
+---
+
+## Research
+
+REAL PUBLICATION LINKS CHOSEN.
+
+The portfolio uses actual publication records and research profiles rather than decorative academic imagery.
+
+Why:
+
+The work itself is the evidence.
+
+---
+
+# 4. AI-Generated Content
+
+The current portrait was generated with Nano Banana.
+
+I do not treat it as a real photograph.
+
+No AI-generated project image is used as a substitute for technical evidence.
+
+If AI-generated connective visuals are added later, they should follow one consistent style:
+
+- calm
+- technical
+- editorial
+- near-black
+- warm off-white
+- restrained green accent
+- no neon
 - no robots
 - no glowing AI brains
-- no generic neural-network backgrounds
+- no generic neural-network imagery
 
 ---
 
-# 5. Rejected Image
+# 5. Rejected Generated Image
 
 ## Rejected Concept
 
-A generated futuristic AI hero image showing glowing neural connections, processors, and abstract digital structures.
+A futuristic AI hero image with glowing neural networks, processors, and abstract digital effects.
 
 ## Why I Rejected It
 
-I rejected it because it would compete with the portfolio's actual engineering evidence and make the site feel more generic.
+I rejected it because it would make the portfolio feel more generic and compete with the actual engineering evidence.
 
-The real profile photo, project architecture, GitHub contributions, product screenshots, and research visuals communicate more credibility and specificity than decorative AI imagery.
-
----
-
-# 6. Final Curatorial Decision
-
-The final image strategy is based on one rule:
-
-> Use the most truthful and informative visual available.
-
-For this portfolio, that usually means:
-
-- real screenshots over generated mockups,
-- real architecture over abstract AI artwork,
-- real data over decorative graphics,
-- and, where the subject is the person, a real photo is preferred over an AI-generated portrait.
-
-The visual identity stays consistent because every image supports the same calm, technical, editorial mood.
+The TensorFlow runtime visual, real metrics, upstream pull requests, repositories, live projects, and research records communicate much more specific proof.
 
 ---
 
-# Final Deliverable Summary
+# 6. Curatorial Judgment
+
+The strongest visual in the portfolio is not a generated AI illustration.
+
+It is the TensorFlow / CPython technical visual because it explains real engineering work and supports it with measurable results.
+
+My rule is:
+
+> If a real technical visual, project, repository, result, or publication can prove the work, use that before generating an image.
+
+---
+
+# Deliverable Summary
 
 ## Keepers
 
-- Real product screenshots
-- Real architecture diagrams
-- Real GitHub/open-source evidence
-- Real research figures
-- Real data visualizations
-- Minimal interface icons
-- Current AI-generated portrait, clearly disclosed
+- TensorFlow / CPython technical runtime visual
+- Real runtime metrics
+- Real upstream contribution evidence
+- Real repositories
+- Real live projects
+- Real publication evidence
+- Current AI-generated portrait, explicitly disclosed
 
 ## Rejected
 
-- Futuristic AI hero artwork
-- Humanoid robots
-- Glowing AI brains
-- Generic neural-network backgrounds
-- Generated UI mockups where real products exist
+- Generic futuristic AI hero imagery
+- AI brains
+- humanoid robots
+- decorative neural-network graphics
+- generated product mockups where real proof exists
 
-## Judgment
+## Final Judgment
 
-The portfolio uses real evidence as the default and only considers generated imagery when it adds information rather than decoration.
+Real engineering evidence should remain the loudest visual element in the portfolio.
