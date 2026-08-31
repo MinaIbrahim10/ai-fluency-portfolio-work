@@ -1,0 +1,2 @@
+Fonts: Inter for the core interface and Cormorant Garamond Italic for restrained editorial emphasis. Palette: #0F0F10, #F3F1EB, #6B6B66, and #7FBF3F.
+Mood: calm, technical, editorial, and research-focused — the visual identity should frame real engineering evidence rather than compete with it.
