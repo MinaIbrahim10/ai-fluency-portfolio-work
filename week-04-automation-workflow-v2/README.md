@@ -120,6 +120,31 @@ Core rules:
 
 ---
 
+# Exact Configuration and Full Run Outputs
+
+## Claude Project Instructions
+
+- [Exact Claude Project Instructions](claude-project-instructions.md)
+
+## Full Runs
+
+- [Run 1 — LinkedIn Portfolio Post](runs/run-01-linkedin-portfolio-post.md)
+- [Run 2 — Agentic-Nexus README](runs/run-02-agentic-nexus-readme.md)
+- [Run 3 — Professional Outreach Email](runs/run-03-professional-outreach-email.md)
+- [Run 4 — TensorFlow / CPython Technical Summary](runs/run-04-tensorflow-cpython-summary.md)
+- [Run 5 — AI-Powered Journal Management Case Study](runs/run-05-journal-management-case-study.md)
+
+Each run includes:
+- the exact input
+- the draft
+- critique
+- revised draft
+- final output
+- human-check requirements
+- measured workflow time
+
+---
+
 # 3. Five Real Runs
 
 ## Run 1 — LinkedIn Portfolio Post
