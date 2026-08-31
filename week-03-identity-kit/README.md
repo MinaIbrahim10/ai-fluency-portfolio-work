@@ -115,19 +115,18 @@ The accent should never become louder than the engineering work.
 
 ## Logo / Favicon
 
-The identity uses a simple `MI` monogram.
+The portfolio already uses a simple `MI` monogram as its favicon.
 
-The logo intentionally avoids:
+The favicon uses:
 
-- AI brain symbols
-- neural-network icons
-- robot imagery
-- complex gradients
-- decorative technology symbols
+- the initials `MI`
+- a dark background
+- restrained light lettering
+- a subtle green accent consistent with the portfolio interface
 
-The monogram keeps the identity personal, simple, and reusable.
+It is intentionally minimal and avoids generic AI symbols such as brains, robots, neural networks, or complex gradients.
 
-![MI Monogram](mi-monogram.svg)
+The existing favicon is retained because it is already recognizable, consistent with the live portfolio, and simple enough to work at browser-tab size.
 
 ---
 
