@@ -128,3 +128,41 @@ The existing rule to separate verified evidence from missing evidence handled th
 PASS — hallucination/unsupported-metric guardrail worked as intended.
 
 Live connection used: GitHub.
+
+---
+
+## Build Log Entry 3 — Ambiguous Request Test
+
+### Goal
+
+Test whether the agent can recognize when a request is too ambiguous to investigate safely.
+
+### Test Request
+
+> Find evidence for my AI project.
+
+### What Happened
+
+The request did not identify which AI project was meant.
+
+Instead of searching GitHub randomly or assuming a project, the agent asked for clarification and gave examples of possible projects such as Agentic-Nexus, TensorFlow work, and AI-Powered Journal Management.
+
+No GitHub tool call was made because the project could not be identified reliably.
+
+### Why This Matters
+
+The agent is not supposed to use tools just because tools are available.
+
+A useful agent must also know when it does not have enough information to act.
+
+Searching a random repository could produce irrelevant evidence and potentially lead to an incorrect claim.
+
+### Change After This Run
+
+No instruction change was required.
+
+The existing clarification rule worked as intended.
+
+### Result
+
+PASS — the agent identified ambiguity and requested clarification instead of guessing or making unnecessary tool calls.
